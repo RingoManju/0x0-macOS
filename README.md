@@ -6,6 +6,8 @@ I've included some handy Automator wrappers to extend 0x0's functionality to the
 
 Similarly, the instructions will be the same (as long as they apply to macOS)
 
+Add my quick actions to ~/Library/Services/
+
 **Upload files from local or remote locations to [0x0.st](https://0x0.st/).**
 
 ## Installation
