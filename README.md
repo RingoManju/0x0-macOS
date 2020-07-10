@@ -1,4 +1,8 @@
-# 0x0
+# 0x0-macOS
+This is a forked copy of [0x0](https://github.com/Calinou/0x0/) by [Calinou](https://github.com/Calinou/). 
+macOS uses ZSH as the default shell from Catalina onward, and Calinou's script appears to run just fine. 
+The main source code of 0x0 in this will be updated to the most current version of 0x0 that runs on macOS.
+I've included some handy Automator wrappers to extend 0x0's functionality to the contextual menu (Services/Quick Actions)
 
 **Upload files from local or remote locations to [0x0.st](https://0x0.st/).**
 
