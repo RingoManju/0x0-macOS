@@ -4,6 +4,8 @@ macOS uses ZSH as the default shell from Catalina onward, and Calinou's script a
 The main source code of 0x0 in this will be updated to the most current version of 0x0 that runs on macOS.
 I've included some handy Automator wrappers to extend 0x0's functionality to the contextual menu (Services/Quick Actions)
 
+Similarly, the instructions will be the same (as long as they apply to macOS)
+
 **Upload files from local or remote locations to [0x0.st](https://0x0.st/).**
 
 ## Installation
